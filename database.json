@@ -1,0 +1,340 @@
+{
+  "films": [
+    {
+      "name": "Брат",
+      "country": "Россия, 1997",
+      "link": "https://plus.kinopoisk.ru/film/41519/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015df563878ab208107139ea66ad88/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Дурак",
+      "country": "Россия, 2014",
+      "link": "https://plus.kinopoisk.ru/film/808639/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a0000015173df7c1a6d378468a74511d57e/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Легенда №17",
+      "country": "Россия, 2012",
+      "link": "https://plus.kinopoisk.ru/film/601564/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a000001516286fa09207e97cb4c000320b9/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Бабуся",
+      "country": "Россия, Франция, 2003",
+      "link": "https://plus.kinopoisk.ru/film/41465/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a000001517ab87e24bbb240e42920ec38b9/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Приходи на меня посмотреть",
+      "country": "Россия, 2000",
+      "link": "https://plus.kinopoisk.ru/film/40955/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a00000151852f374d4f4e40b79aa13af215/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Орел и решка",
+      "country": "Россия, 1995",
+      "link": "https://plus.kinopoisk.ru/film/40866/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a0000015188252ac9daf01069cfeb3d6b21/280x178",
+      "type": "comedy"
+    },
+    {
+      "name": "Война",
+      "country": "Россия, 2002",
+      "link": "https://plus.kinopoisk.ru/film/41431/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015169b65f0a8c1c4515cabc3fd99e/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Ворошиловский стрелок",
+      "country": "Россия, 1999",
+      "link": "https://plus.kinopoisk.ru/film/41442/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a00000151695b8a2608ff875c83a312c5ae/280x178",
+      "type": "action"
+    },
+    {
+      "name": "ДМБ",
+      "country": "Россия, 2000",
+      "link": "https://plus.kinopoisk.ru/film/41133/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015162859004a761739b636b65ed61/280x178",
+      "type": "comedy"
+    },
+    {
+      "name": "Звезда",
+      "country": "Россия, 2002",
+      "link": "https://plus.kinopoisk.ru/film/41360/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a0000015176b2260fc54099bf043e3747a1/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Кавказский пленник",
+      "country": "Россия, Казахстан, 1996",
+      "link": "https://plus.kinopoisk.ru/film/7652/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a0000015179d32867790aa23dce430d6494/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Любовник",
+      "country": "Россия, 2002",
+      "link": "https://plus.kinopoisk.ru/film/41312/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015186672796c65eceab111cd3bb7d/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Дочь",
+      "country": "Россия, 2012",
+      "link": "https://plus.kinopoisk.ru/film/678999/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015179090d700e76fce615e9179e52/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Особенности национальной охоты",
+      "country": "Россия, 1995",
+      "link": "https://plus.kinopoisk.ru/film/7653/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a000001518a27222cc8c48ab2a3b0d85a31/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Бедная Саша",
+      "country": "Россия, 1997",
+      "link": "https://plus.kinopoisk.ru/film/41481/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a00000151854c7f5b34109cf989fb481dd2/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Дневник его жены",
+      "country": "Россия, 2000",
+      "link": "https://plus.kinopoisk.ru/film/7648/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a0000015187e1a5410451f17e00d084a6f4/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Три истории",
+      "country": "Россия, Украина, 1997",
+      "link": "https://plus.kinopoisk.ru/film/40777/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a0000015179a95e09b3e9415be174ea15f8/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Блокпост",
+      "country": "Россия, 1998",
+      "link": "https://plus.kinopoisk.ru/film/41505/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a0000015184a375fa4db387c99b1191e4f3/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Жить",
+      "country": "Россия, 2011",
+      "link": "https://plus.kinopoisk.ru/film/645910/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015184dc9df5763009d8078b9b3853/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Статский советник",
+      "country": "Россия, 2005",
+      "link": "https://plus.kinopoisk.ru/film/94111/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015176bd1c7410731b8e86c718c368/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Географ глобус пропил",
+      "country": "Россия, 2013",
+      "link": "https://plus.kinopoisk.ru/film/653696/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015176f5e8798cd01ebf61901a410a/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Мусульманин",
+      "country": "Россия, 1995",
+      "link": "https://plus.kinopoisk.ru/film/41634/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a0000015170e1f53f307c7c476d5793934d/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Лунный папа",
+      "country": "Германия, Япония, Таджикистан, Узбекистан, Австрия, 1999",
+      "link": "https://plus.kinopoisk.ru/film/41299/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a000001516879d7cb5702744ec8b7120869/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Жажда",
+      "country": "Россия, 2013",
+      "link": "https://plus.kinopoisk.ru/film/696047/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a0000015181f74292a9ce38c41c811bfab8/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Человек у окна",
+      "country": "Россия, 2009",
+      "link": "https://plus.kinopoisk.ru/film/422948/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015189f81f2ddc3640b0499f007732/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Изображая жертву",
+      "country": "Россия, 2006",
+      "link": "https://plus.kinopoisk.ru/film/252099/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015171dac154af950448547e8b985b/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Мама",
+      "country": "Россия, 1999",
+      "link": "https://plus.kinopoisk.ru/film/41594/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a00000151852fc6fc0e1dd3bcc3dbc48523/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Упражнения в прекрасном",
+      "country": "Россия, 2011",
+      "link": "https://plus.kinopoisk.ru/film/521647/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a000001516cc6379f94cacb4eeb1c6d37ba/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Звезда",
+      "country": "Россия, 2014",
+      "link": "https://plus.kinopoisk.ru/film/724982/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a000001517ca5427e416cd309f7ffeaea9c/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Плюс один",
+      "country": "Россия, 2008",
+      "link": "https://plus.kinopoisk.ru/film/395697/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a000001517fda812fd358d2536a9f7e109d/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Водитель для Веры",
+      "country": "Россия, Украина, 2004",
+      "link": "https://plus.kinopoisk.ru/film/80774/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a00000151855538b39f0442548e34cd470f/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Русалка",
+      "country": "Россия, 2007",
+      "link": "https://plus.kinopoisk.ru/film/278156/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a000001517fbe36ed347905e2e8f9d8b8d4/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Рассказы",
+      "country": "Россия, 2012",
+      "link": "https://plus.kinopoisk.ru/film/656093/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a0000015167adab3014e71d0bb80abb620a/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Дикое поле",
+      "country": "Россия, 2008",
+      "link": "https://plus.kinopoisk.ru/film/418255/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a0000015179d74313672b7e1a3059b7e0bc/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Мне не больно",
+      "country": "Россия, 2006",
+      "link": "https://plus.kinopoisk.ru/film/178722/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/27707/2a0000015187c253e27aca6b0b981e7c9e68/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Гадкие лебеди",
+      "country": "Россия, Франция, Швейцария, 2006",
+      "link": "https://plus.kinopoisk.ru/film/197352/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015185ca38d2d791fbd0b88ef57071/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Ученик",
+      "country": "Россия, 2016",
+      "link": "https://plus.kinopoisk.ru/film/922150/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/28788/2a00000151706c1ff9e342ff5f10d7359339/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Жмурки",
+      "country": "Россия, 2005",
+      "link": "https://plus.kinopoisk.ru/film/84830/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a000001518a566a4774c13142db3926184c/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Бедный, бедный Павел",
+      "country": "Россия, 2003",
+      "link": "https://plus.kinopoisk.ru/film/41482/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a000001517fdf8f92fb5946ca81ef6ca5cc/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Мой сводный брат Франкенштейн",
+      "country": "Россия, 2004",
+      "link": "https://plus.kinopoisk.ru/film/84317/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/69336/2a0000015176efe2009503a213e5d37fbe2b/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Хочу в тюрьму",
+      "country": "Россия, 1998",
+      "link": "https://plus.kinopoisk.ru/film/41236/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/2a000001516790f424571fe86e41e4d1c85e/280x178",
+      "type": "action"
+    },
+    {
+      "name": "Американская дочь",
+      "country": "Казахстан, Россия, 1995",
+      "link": "https://plus.kinopoisk.ru/film/40995/",
+      "pictures":
+        "http://avatars.mds.yandex.net/get-kino-vod-films-gallery/33804/2a000001516bf1f04f527c5559106e436f32/280x178",
+      "type": "comedy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "autoConnect": false,
+  "connection": {
+    "host": "212.237.33.246",
+    "username": "uprog",
+    "password": "1004797537",
+    "port": "22"
+  },
+  "basePath": "./test/vps-bot",
+  "ignore": [".git", "src/node_modules"]
+}
