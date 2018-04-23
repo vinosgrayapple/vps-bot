@@ -12,6 +12,10 @@ const database = require('../database.json')
 const os = require('os')
 const PNF = require('google-libphonenumber').PhoneNumberFormat
 const phoneUtil = require('google-libphonenumber').PhoneNumberUtil.getInstance()
+
+process.on('uncaughtException', function (err) {         log.critical ('Except', err.stack); });
+
+
 helper.logStart()
 mongoose
   .connect(config.DB_URL)
@@ -83,6 +87,7 @@ bot.onText(/\/f(.+)/, (msg, match) => {
   Film.findOne({ _id: id })
     .then(f => {
       const caption = `Название: ${f.name}\nСтрана: ${f.country}\n`
+	console.log(f.name)
       bot
         .sendPhoto(chatId, f.pictures, {
           caption: caption,
